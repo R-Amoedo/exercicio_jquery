@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #cBd6e5;
+}
+
+h1 {
+    margin-top: 60px;
+    padding: 16px 0;
+    color: #000;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    text-align: center;
+}
+
+input{
+    padding: 16px 20px;
+    margin-top: 16px;
+    background-color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: left;
+}
+
+button {
+    margin-bottom: 20px;
+    margin-top: 16px;
+    padding: 16px;
+    background-color: #cBd6e5;
+    border: 1px solid #000;
+    cursor: pointer;
+    font-weight: bold;
+    color: #000;
+}
+
+ul.a {
+    list-style-type: circle;
+}
+
+.riscado{
+    text-decoration: line-through
+}
